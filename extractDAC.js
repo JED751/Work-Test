@@ -1,6 +1,6 @@
 //START extractDAC.js
 /*
-Author: 	Mitchell Lipnitsky
+Author: 	
 Create date: 	2025-07-02
 Description: 	Extract DAC Schemas
 */
